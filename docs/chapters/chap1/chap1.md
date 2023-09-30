@@ -12,5 +12,4 @@
 
 ### レビュー参加はこちら
 - [フォームからコメントを送る](https://forms.gle/xUY5h9eH4psE7fXi7)
-- [プルリクエストを送る](https://github.com/mitsutaka28/deeplearning-on-graphs.github.io/blob/main/docs/chapters/chap1/)
-
+- [プルリクエストを送る](https://github.com/deeplearning-on-graphs/deeplearning-on-graphs.github.io/tree/main/docs/chapters/chap1)
