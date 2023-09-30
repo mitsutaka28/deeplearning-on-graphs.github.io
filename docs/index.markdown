@@ -37,7 +37,8 @@ layout: default
 - [第15章 グラフニューラルネットワークの発展的な応用](./chapters/chap15/chap15.md)
 
 ## 公開レビューに関して
-方法・形式については，後日お知らせします．
+- [フォームからコメントを送る](https://forms.gle/xUY5h9eH4psE7fXi7)
+- [プルリクエストを送る](https://github.com/deeplearning-on-graphs/deeplearning-on-graphs.github.io/tree/main/docs/chapters/)
 
 ### 訳者について
 2名体制による共訳で進めています([略歴](./bio.markdown))．
